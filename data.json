@@ -1,6 +1,10 @@
 [
   {
-    "author" : "Quentin",
-    "message" : "Bonjour"
+    "message" : "Bonjour",
+    "author" : "Quentin"
+  },
+  {
+    "message" : "Le début d’un nouveau réseau social",
+    "author" : "Quentin"
   }
 ]
